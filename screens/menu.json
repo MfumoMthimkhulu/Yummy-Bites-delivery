@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Classic Burger",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyDcH_MxdsTsK6KMVon-Ybfa2WiT-R70ZjWw&s",
+        "description": "A juicy beef patty topped with lettuce, tomato, and cheese, served with crispy fries.",
+        "price": 12.99
+    },
+    {
+        "name": "Margherita Pizza",
+        "image": "https://www.jocooks.com/wp-content/uploads/2012/03/margherita-pizza-11-500x500.jpg",
+        "description": "A traditional Italian pizza with fresh mozzarella, basil, and tomato sauce.",
+        "price": 10.99
+    },
+    {
+        "name": "Caesar Salad",
+        "image": "https://lindseyeatsla.com/wp-content/uploads/2021/10/Lindseyeats_Classic_Caesar_Salad-2.jpg",
+        "description": "Crisp romaine lettuce, croutons, and parmesan cheese, tossed in Caesar dressing.",
+        "price": 8.99
+    },
+    {
+        "name": "Grilled Salmon",
+        "image": "https://www.thecookierookie.com/wp-content/uploads/2023/05/featured-grilled-salmon-recipe.jpg",
+        "description": "Perfectly grilled salmon fillet served with a side of steamed vegetables.",
+        "price": 18.99
+    },
+    {
+        "name": "Spaghetti Carbonara",
+        "image": "https://www.allrecipes.com/thmb/Vg2cRidr2zcYhWGvPD8M18xM_WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg",
+        "description": "Spaghetti tossed in a creamy sauce with pancetta, egg, and parmesan.",
+        "price": 14.99
+    },
+    {
+        "name": "Tiramisu",
+        "image": "https://handletheheat.com/wp-content/uploads/2023/12/best-tiramisu-recipe-SQUARE.jpg",
+        "description": "A classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cream.",
+        "price": 6.99
+    }
+]
